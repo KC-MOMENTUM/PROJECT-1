@@ -1,0 +1,22 @@
+        html {
+            font-size: 22px;
+        }
+
+        body {
+            background-color: #7d6a6a;
+            color: aqua;
+        }
+
+        a{
+            color: coral;
+        }
+
+        a:visited {
+          color: lightcoral;  
+        }
+
+        a:hover, a:active {
+            color: darkcyan;
+        }
+
+       
